@@ -7,7 +7,7 @@
 
   ## Description
 
-  A public blog where users can make posts for other users to comments on
+  A public blog where users can make posts for other users to comment on
 
   ## Table of Contents
 
